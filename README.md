@@ -1,1 +1,1 @@
-C - Stacks, Queues - LIFO, FIFO
+Readme for "C - Stacks, Queues - LIFO, FIFO"
